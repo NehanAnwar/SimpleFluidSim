@@ -8,22 +8,10 @@
     ".NETCoreApp,Version=v9.0": {
       "FluidSimulation/1.0.0": {
         "dependencies": {
-          "Blotch3D": "1.0.7",
           "MonoGame.Framework.DesktopGL": "3.8.4.1"
         },
         "runtime": {
           "FluidSimulation.dll": {}
-        }
-      },
-      "Blotch3D/1.0.7": {
-        "dependencies": {
-          "MonoGame.Framework.DesktopGL": "3.8.4.1"
-        },
-        "runtime": {
-          "lib/netstandard2.1/Blotch3D.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
         }
       },
       "MonoGame.Framework.DesktopGL/3.8.4.1": {
@@ -132,13 +120,6 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
-    },
-    "Blotch3D/1.0.7": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-tc4tlMOXlvYyQOv2pJZ9S1Dp0zndfxGQQdvdJA0h9ESOzLymiwOh5E1KRUEq+xKo213hJevxQ6QoF15i5E9N4w==",
-      "path": "blotch3d/1.0.7",
-      "hashPath": "blotch3d.1.0.7.nupkg.sha512"
     },
     "MonoGame.Framework.DesktopGL/3.8.4.1": {
       "type": "package",

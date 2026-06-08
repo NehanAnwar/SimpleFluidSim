@@ -3,7 +3,6 @@
 /home/nehan/Projects/MFFAssignments/Sem2/Prog2/ProjectFluid/FluidSimulation/bin/Debug/net9.0/FluidSimulation.runtimeconfig.json
 /home/nehan/Projects/MFFAssignments/Sem2/Prog2/ProjectFluid/FluidSimulation/bin/Debug/net9.0/FluidSimulation.dll
 /home/nehan/Projects/MFFAssignments/Sem2/Prog2/ProjectFluid/FluidSimulation/bin/Debug/net9.0/FluidSimulation.pdb
-/home/nehan/Projects/MFFAssignments/Sem2/Prog2/ProjectFluid/FluidSimulation/bin/Debug/net9.0/Blotch3D.dll
 /home/nehan/Projects/MFFAssignments/Sem2/Prog2/ProjectFluid/FluidSimulation/bin/Debug/net9.0/MonoGame.Framework.dll
 /home/nehan/Projects/MFFAssignments/Sem2/Prog2/ProjectFluid/FluidSimulation/bin/Debug/net9.0/NVorbis.dll
 /home/nehan/Projects/MFFAssignments/Sem2/Prog2/ProjectFluid/FluidSimulation/bin/Debug/net9.0/runtimes/android-arm/native/libopenal.so
@@ -32,3 +31,4 @@
 /home/nehan/Projects/MFFAssignments/Sem2/Prog2/ProjectFluid/FluidSimulation/obj/Debug/net9.0/FluidSimulation.pdb
 /home/nehan/Projects/MFFAssignments/Sem2/Prog2/ProjectFluid/FluidSimulation/obj/Debug/net9.0/FluidSimulation.genruntimeconfig.cache
 /home/nehan/Projects/MFFAssignments/Sem2/Prog2/ProjectFluid/FluidSimulation/obj/Debug/net9.0/ref/FluidSimulation.dll
+/home/nehan/Projects/MFFAssignments/Sem2/Prog2/ProjectFluid/FluidSimulation/obj/Debug/net9.0/FluidSimulation.sourcelink.json
