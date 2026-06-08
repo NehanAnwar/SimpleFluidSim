@@ -8,6 +8,6 @@
 
  It doesn't show perfect liquid behavior currently and fails to even out both sides of the container, I think most of this is due to badly tweaked numbers but may require a fundamental change in how I calculate collisions.
  
-  After running the sim for a while with viscosity >= 0, all entropy dies out and the particles almost lock into a grid, I'm not sure if this is expected behavior from particle based liquids but I'll try to stop entropy loss in my next fix.
+  After running the sim for a while with viscosity > 0, all entropy dies out and the particles almost lock into a grid, I'm not sure if this is expected behavior from particle based liquids but I'll try to stop entropy loss in my next fix.
 
 I do not have any automatic tests written into the program yet.
