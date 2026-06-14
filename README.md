@@ -19,6 +19,7 @@ FluidWorld.cs/Viscosity - Friction between particles
 
 FluidWorld.cs/InteractionRadius - 0-1.0 Smaller sphere inside particle that calculates Particle-on-Particle collisions and also Collision grid size **recommended not to change!**
 
+
 ### Requirements:
  - .Net SDK
 ### How To Run:
